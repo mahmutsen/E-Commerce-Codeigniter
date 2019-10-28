@@ -1,6 +1,6 @@
 # Welcome
 
-**Live Project** - *https://senmahmut.000webhostapp.com/*
+**Live Project**Â -Â *https://mahmutmustafasen.000webhostapp.com/*
 
 
 **Members/Users**
@@ -9,7 +9,7 @@
 
 **Admin Panel**
 
--To reach “Admin Panel”; 
+-To reach â€œAdmin Panelâ€; 
 *https://senmahmut.000webhostapp.com/admin*
 
 -Members - Products Add / Delete / Edit / Listing, Member Orders Listing /Cargo Statuses Change (New, Shipping, Confirmed, Canceled), Member Posts Listing / Delete, Category Listing, Settings View / Edit (Email Settings, About Us Page, Contact Page )
@@ -23,7 +23,7 @@
 
 **Configuration**
 
--application/config/config.php - Edit $config['base_url']
--application/config/database.php - Edit "username", "password", "database"
--In admin panel settings edit email settings (for e-mail send )
--Project database db.sql (example) - must be same name database.php->database
+-application/config/config.php - EditÂ $config['base_url']
+-application/config/database.php - EditÂ "username", "password", "database"
+-In admin panel settings edit email settings (forÂ e-mail sendÂ )
+-Project databaseÂ db.sqlÂ (example) - must be same nameÂ database.php->database
