@@ -1,6 +1,6 @@
 # Welcome
 
-**Live Project** - *https://senmahmut.000webhostapp.com/*
+**Live Project** - *https://mahmutmustafasen.000webhostapp.com*
 
 
 **Members/Users**
@@ -10,7 +10,7 @@
 **Admin Panel**
 
 -To reach “Admin Panel”; 
-*https://senmahmut.000webhostapp.com/admin*
+*https://mahmutmustafasen.000webhostapp.com/admin*
 
 -Members - Products Add / Delete / Edit / Listing, Member Orders Listing /Cargo Statuses Change (New, Shipping, Confirmed, Canceled), Member Posts Listing / Delete, Category Listing, Settings View / Edit (Email Settings, About Us Page, Contact Page )
 
