@@ -1,8 +1,5 @@
 # Welcome
 
-**Live Project** - *https://mahmutmustafasen.000webhostapp.com*
-
-
 **Members/Users**
 
 -Edit Account Information, Add/Delete items to/from Shoping Cart, Place Orders, View Orders and Cargo Statuses
